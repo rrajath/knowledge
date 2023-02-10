@@ -1,0 +1,37 @@
+<span class="timestamp-wrapper"><span class="timestamp">[2023-02-09 Thu]</span></span> Hobbes says if cognition is computation, and if matter is real, then we can build a computer and make artificial cognition. This is the essence of AI. As Galileo killed the universe, Hobbes killed the human soul. If you don’t have a soul, what is it that makes you unique and special from the rest of the purposeless, meaningless cosmos.
+
+Descartes does not respond to Hobbes out of religious faith. He responds to Hobbes out of the fundamental machinery and central claims of the scientific revolution. Hobbes basically proposes this idea of AI and Descartes says that’s wrong. What Descartes argues about the central claims made by the scientific revolution, like matter is real and reality is mathematically measured and that the meaning and the meaning of things is not in the things themselves.
+
+Descartes says if you reason about the universe, that means you are trying to seek truth and that is your purpose. And, truth carries with itself meaning. In order to figure out if something is true or not, you have to first understand what it means. Descartes says to Hobbes, what’s central to reasoning is normativity (what ought to be), meaning and purpose.
+
+Descartes argument is that science describes matter as inert, meaningless, purposeless, without value and how science explains how things *are* (not how they ought to be). So matter lacks meaning, purpose, normativity. How could one possibly get all of those things out of matter. If you’re a reasoner you care about the truth and yet pursuit of truth depends on meaning, purpose and normative standards of how it ought to be and none of these things are in matter.
+
+Matter has two types of qualities: primary qualities that can be mathematically measured whether or not somebody is observing it, these are objective qualities. But matter can also have non-measurable qualities like how beautiful something is or how sweet the honey tastes. These are secondary qualities. These don’t exist in the object. They only exist in our minds. These are subjective qualities.
+
+Qualia is another term for secondary qualities that cannot be measured. Philosophers closely attribute it to consciousness.
+
+What Descartes is showing to Hobbes is objective qualities are in the world (in matter) and subjective qualities are not in the world, they’re in the mind. The secondary qualities (qualia) are not in matter, so there’s no way to manipulate matter to generate qualia (consciousness). So, the AI will not only have any meaning, purpose or normative value, but the AI will also not have any conscious awareness of its cognition.
+
+Descartes makes the mistake of certainty. There are two types of certainty - logical notion of certainty (is absolute deductive validity; it’s impossible for the premise to be true) and psychological notion of certainty (which is inability to doubt). These are not identical. For example, a radical bigot is incapable of doubting the superiority of the white race because their depth of ignorance and bigotry. They have "psychological certainty", but not logical certainty. What Descartes thinks is that if you push psychological certainty is pushed far enough, it’ll become identical to logical certainty.
+
+So, Descartes doubts everything he can possibly doubt and even doubts the math. Because he realizes that his commitment to math is still ultimately based on psychological certainty. What he eventually concludes is that he cannot doubt that he exists. In order to be subject to illusion, his mind must exist. This is where he says "I think therefore I am".
+
+We used to have the mind in touch with the world. Then we had the mind in touch with the matter. Now all we have is the mind in touch with itself. That’s what consciousness is. For example, when someone asks you how do you know there’s a cup on the table, you’d say that you can see it, interact with it, etc. But when someone asks you how do you know you’re conscious, you’d say that you know it by being conscious.
+
+What Descartes now tells Hobbes, is that the mind touching itself is not even in the matter. It’s not even in the math. It’s just in the mind.
+
+What Descartes argument was that mind and matter are essentially different. Mind and matter share no fundamental properties. Mind moves on purpose, it moves according to values, it works in terms of meaning and qualia, it cares about and pursues the truth and it has this kind of contact with itself that no material thing has. Whereas matter is extended in space and time, displays force, transfers energy. So, all the properties that mind has, matter doesn’t have, and vice versa.
+
+Here’s the problem, if mind and matter share no properties, how do they causally interact? Take the example of the mind feeling thirsty and craving for water. The mind moves the body to get some water. That’s mind manipulating matter. The reverse is also true. An example of this would be you burning your hand. Two pieces of matter interact and the end result is pain that your mind (and your hand) feels. Pain is unmeasurable. It’s qualia.
+
+Mind and matter constantly interact with each other. But Descartes thinks they’re completely opposite and does not interact.
+
+Descartes gives an unstable grammar of realness and as a society we swing back and forth between subjective (mind) and objective (math).
+
+What we have here is a loss of perspectival and participatory knowing, gradual loss of contact with the world, loss of contact with tradition and history, loss of contact with the our own bodies, loss of contact with other people and other minds, loss of contact with reality.
+
+When Descartes says "I think therefore I am", what does the "I" signify? Is it the introspectiion? My mind is not good at introspection. Is it my memories? I can’t depend on my mind for memories, they’re not reliable. Is it my history? Not really, because how do I even measure history, since I can’t rely on my memories. All that you have contact with is *this moment of self-awareness right now*.
+
+Pascal calls the spirit of geometry (what we now call the spirit of math or spirit of computation) a spirit of finesse. His fear is that we have lost the spirit of finesse. And we’ve come to think of all of knowing and being in the spirit of geometry. We’ve slowly lost the importance of procedural knowledge (knowing how to do things), we’ve lost perspectival knowing (knowing what it’s like), we’ve lost participatory knowing (knowing that is part and parcel of how we’re bound up with someone else in a process of mutual transformation, reciprocal revelation). That’s what finesse is, if you’re doing Tai Chi, your movement is like jazz. There’s an element in there that you can’t capture it mathematically - the right timing, the right placement, knowing what’s it like to be you and knowing what it’s like to be the other person. That’s what’s necessary for finesse.
+
+What Pascal is pointing out is what has been lost in the scientific revolution is all this other kinds of knowing and being. And these are the kinds of knowing and being that he found present in the transformative experience that he had. He argues that the loss of the spirit of finesse has left us bereft of the transformative truth and transformative knowing.
